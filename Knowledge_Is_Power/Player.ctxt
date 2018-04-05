@@ -1,12 +1,14 @@
 #BlueJ class context
 comment0.target=Player
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Obj\ here.\r\n\ A\ base\ player\ class\r\n\ @author\ Karas\r\n\ @version\ v0.1\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Obj\ here.\r\n\ A\ base\ player\ class\r\n\ @author\ Karas\r\n\ @version\ v0.101\r\n
 comment1.params=
 comment1.target=Player()
-comment2.params=
-comment2.target=void\ act()
+comment2.params=x\ y
+comment2.target=Player(int,\ int)
 comment3.params=
-comment3.target=void\ move()
+comment3.target=void\ act()
 comment4.params=
-comment4.target=void\ attack()
-numComments=5
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ attack()
+numComments=6
